@@ -1,3 +1,1 @@
 # teste-gitops
-
-a
