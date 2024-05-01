@@ -1,3 +1,4 @@
 # teste-gitops
 
 b
+c
